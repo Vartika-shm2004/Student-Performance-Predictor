@@ -4,7 +4,7 @@ The **Student Performance Predictor** project uses machine learning to predict s
 
 ## Overview
 
-In this project, we use a dataset of students' scores to predict writing scores using their math and reading scores. We perform data preprocessing, exploratory data analysis (EDA), model building, and evaluation. The final trained model is saved for future use.
+In this project, we use a dataset of student's scores to predict writing scores using their math and reading scores. We perform data preprocessing, exploratory data analysis (EDA), model building, and evaluation. The final trained model is saved for future use.
 
 ## Project Structure
 
